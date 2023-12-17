@@ -11,6 +11,7 @@ The first part is usually a simplified, or easier, problem which can give a hint
 
 ## How I did it
 I have primarily used Python, however, for funzies I thought I'd subject myself to C++ and give that a go.
+I already deleted parts 1-4, so I unfortunately I do not have them here.
 
 ## How do I use them?
 Please don't, the whole fun is solving it yourself. 
