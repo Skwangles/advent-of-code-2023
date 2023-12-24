@@ -231,5 +231,3 @@ else:
         total += p.add()
         
     print(total)
-print()
-
