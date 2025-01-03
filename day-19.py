@@ -1,7 +1,7 @@
 import copy
 import numpy as np
 
-# day 18 - https://adventofcode.com/2023/day/19
+# day 19 - https://adventofcode.com/2023/day/19
 # This was based very much off the 'seed' planting problem from day 5. I took inspiration for this from network router allow/deny chains.
 
 
